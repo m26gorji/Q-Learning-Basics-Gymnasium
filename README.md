@@ -1,5 +1,3 @@
-<div style="background-color:black; color:white; padding: 40px 10px; margin:5px; border-radius:6px; text-align:center; font-size:50px;">Q-Learning</div>
-
 # 🤖 Reinforcement Learning: Q-Learning Collection
 
 This folder contains my implementations of the **Q-Learning** algorithm on several classic environments from the `Gymnasium` library. Each project demonstrates the agent's ability to learn an optimal policy through trial and error.
